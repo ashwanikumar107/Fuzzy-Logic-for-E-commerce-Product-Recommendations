@@ -16,3 +16,5 @@ Python — Core programming language
 scikit-fuzzy — Fuzzy logic modeling
 
 Matplotlib — Visualization of fuzzy sets
+
+Tkinter - For GUI
